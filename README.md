@@ -1,2 +1,2 @@
-# -ManagementMemberAssociation
+# ManagementMemberAssociation
 Association member management tool
